@@ -4,4 +4,9 @@ second line after creating feature branch
 
 this is from develop branch
 
+<<<<<<< HEAD
+
+cloned develop branch into Feature-102 , this is from Feature -102
+=======
 Edit in Develop branch directly
+>>>>>>> dac2f897bbd07e031d79bec7f1a62e879305180c
